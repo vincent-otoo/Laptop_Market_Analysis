@@ -31,13 +31,12 @@ An interactive Excel dashboard for analyzing laptop market trends across multipl
 
 ## 📁 Files
 
-- `Laptop_Dashboard.xlsx` – Main Excel file with all visuals and interactivity
+- 📊 [Laptop_Market_Analysis.xlsx](https://github.com/user-attachments/files/20934742/Laptop_Market_Analysis.xlsx)– Main Excel file with all visuals and interactivity
 
 ---
 
 ## 📸 Preview
-
-*(Include a screenshot of your dashboard here — you can upload the image and reference it like this:)*  
+ 
 ![Image](https://github.com/user-attachments/assets/b4391dd3-3a6a-4d4b-bc46-c606f59020bf)
 
 ---
